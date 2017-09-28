@@ -7,4 +7,4 @@ Building your own DSL
  
 Talk (Ukr):
 
- [![Talk (Ukr)](https://i.ytimg.com/vi/7DYI6EjIJWw/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB_UwcJliJydCsKb9_F8Z92Z0NtKw)](https://youtu.be/7DYI6EjIJWw)
+ [![Talk (Ukr)](http://i3.ytimg.com/vi/7DYI6EjIJWw/maxresdefault.jpg)](https://youtu.be/7DYI6EjIJWw)
